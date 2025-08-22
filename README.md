@@ -14,12 +14,23 @@
 </div>
 
 
-![Overview of TalkDep pipeline](plots/Counseling_Reranking_Strategies.png)
-
+<img
+  src="plots/Counseling_Reranking_Strategies.png"
+  alt="drawing"
+  style="display:block;margin-inline:auto;width:450px;"
+/>
 
 ## 📌  Overview
 
 This repository accompanies the paper **“_CounselingQA_: Scaling Professional Mental-Health Guidance via DenseRetrieval and Large Language Models”** and contains all code, data, and instructions needed to replicate its experiments.
+
+
+
+<img
+  src="plots/plots_results_by_topic.jpg"
+  alt="drawing"
+  style="display:block;margin-inline:auto;width:450px;"
+/>
 
 ## 📂 Datasets
 
@@ -181,6 +192,8 @@ You can use any other technology for perform the semantic or BM25 retrieval.*
       --batch-size 32 \
       --output-dir ./results/reranked
     ```    
+
+![Overview of Results](plots/plots_results_by_topic.jpg)
 
 
 ## 📝 Citation
