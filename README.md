@@ -1,4 +1,4 @@
-# 👩🏽‍⚕️🩺💬 _CounselingQA_: Scaling Professional Mental-Health Guidance via DenseRetrieval and Large Language Models
+# 👩🏽‍⚕️🩺💬 _CounselingQA_: Scaling Professional Mental-Health Guidance via Dense Retrieval and Large Language Models
 
 <!-- Author list (center-aligned) -->
 <div style="text-align:center; line-height:1.4; font-family:system-ui, sans-serif;">
