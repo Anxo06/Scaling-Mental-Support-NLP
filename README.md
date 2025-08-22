@@ -19,7 +19,14 @@
 
 ## 📌  Overview
 
-This repository accompanies the paper **“_CounselingQA_: Scaling Professional Mental-Health Guidance via DenseRetrieval and Large Language Models”** and contains all code, data, and instructions needed to replicate its experiments. 
+This repository accompanies the paper **“_CounselingQA_: Scaling Professional Mental-Health Guidance via DenseRetrieval and Large Language Models”** and contains all code, data, and instructions needed to replicate its experiments.
+
+## 📂 Datasets
+
+The **CounselingQA datasets** can be requested for research purposes.   Please visit the following page for details and access instructions:
+
+👉 [Dataset Access — Scaling Mental Support](https://erisk.irlab.org/ScalingMentalSupport.html)
+
 
 
 ## Abstract
