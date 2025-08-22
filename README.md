@@ -4,7 +4,7 @@
 <div style="text-align:center; line-height:1.4; font-family:system-ui, sans-serif;">
 
   <!-- Authors with numbered affiliations -->
-  <a href="mailto:anxo.pvila@udc.es"> <strong>Anxo Perez</strong><sup>1</sup>,<strong>Cesar Piñeiro</strong></a><sup>1</sup>, <strong>Javier Parapar</strong><sup>1</sup>
+  <a href="mailto:anxo.pvila@udc.es"> <strong>Anxo Perez</strong><sup>1</sup>, <strong>Cesar Piñeiro</strong></a><sup>1</sup>, <strong>Javier Parapar</strong><sup>1</sup>
 
 
 
