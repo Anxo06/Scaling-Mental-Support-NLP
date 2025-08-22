@@ -193,9 +193,6 @@ You can use any other technology for perform the semantic or BM25 retrieval.*
       --output-dir ./results/reranked
     ```    
 
-![Overview of Results](plots/plots_results_by_topic.jpg)
-
-
 ## 📝 Citation
 
 *Coming soon – paper under submission.*  
