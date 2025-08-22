@@ -1,0 +1,17 @@
+version: "3.8"
+
+services:
+  elasticsearch:
+    image: docker.elastic.co/elasticsearch/elasticsearch:8.18.1-amd64     # pulls the latest 8.x each time
+    container_name: elasticsearch
+    environment:
+      # --- DISABLE ALL BUILT-IN SECURITY FEATURES ------------
+      - xpack.security.enabled=false
+      - xpack.security.enrollment.enabled=false
+      # --------------------------------------------------------
+      - discovery.type=single-node        # let it start without clustering
+      - ES_JAVA_OPTS=-Xms10g -Xmx10g        # 1 GB heap; tune to half your RAM
+    ports:
+      - "9200:9200"   # REST/HTTP
+      - "9300:9300"   # internal cluster comms
+    restart: unless-stopped
